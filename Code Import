@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head></head>
+<body>
+    <h1>G-Ma's Recipes</h1>
+    <h2> Recipe 1 - Afelia</h2>
+    <p>Ingredients for 4 people:</p>
+    <ul>
+        <li>750g cubed pork</li>
+        <li>90ml olive oil</li>
+        <li>one onion</li>
+        <li>3 garlic cloves</li>
+        <li>250ml beef stock</li>
+        <li>250ml red wine</li>
+        <li>1/2 tsp cumin seeds</li>  
+    </ul>
+    <p> For the marinade:</p>
+    <ul>
+        <li>250ml red wine</li>
+        <li>2tbsp crushed coriander seeds</li>
+        <li>1/2 teaspoon ground cinnamon</li> 
+        <li>salt and pepper</li>
+    </ul>
+    <p> Key Steps:</p>
+    <ol>
+        <li>Make the marinage then add the pork and leave overnight.</li>
+        <li>Remove prok, pst dry but reserve the marinade</li>
+        <li>Heat the oil in a frying pan, add the onion and garlic and cook gently for 3 minutes</li>
+        <li>Add the pork and cook on medium heat fro 5 minutes. Pour in gthe marinade, stock and wine. Bring to boil and simmer for one hour.</li>
+        <li>Remove meat and strain the fluid.</li>
+        <li>Pour the sauce over the pork, add cumin then salt and pepper to taste.</li>
+        <li>Cook in the oven at 180&deg;C for 30 minutes.</li>                                                               
+     </ol>
+</body>
+</html>
